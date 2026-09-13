@@ -11,6 +11,6 @@ int main() {
     if(marks>=80 || income<50000){
     printf("Scholarship Granted");
     }
-    else printf("Not eligible for scholarship");
+    else printf("NO Scholarship");
     
 }
